@@ -1,0 +1,7 @@
+.users {
+  padding: 10px;
+}
+
+.users .users__list{
+  margin: 10px auto;
+}

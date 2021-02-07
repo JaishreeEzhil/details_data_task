@@ -1,0 +1,26 @@
+.appbar{
+  display: flex;
+  height: 70px;
+  background-color: rgb(13, 97, 192);
+  color: white;
+  padding: 0 25px ;
+  align-items: center;
+}
+
+.appbar .title{
+  font-size: 1rem; 
+  flex: 1;
+  text-align: left;
+}
+
+.appbar .title h1{
+  margin: 0;
+}
+
+.appbar .actions button{
+  background-color: transparent;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+}
+
